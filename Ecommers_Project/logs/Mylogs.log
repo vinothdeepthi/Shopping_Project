@@ -1,0 +1,561 @@
+[INFO ] 2023-12-14 11:14:34.138 [main] Commons - Create An Object For Utility Class 
+[INFO ] 2023-12-14 11:14:34.146 [main] Commons - Call The Readproprties Method To Execusion
+[INFO ] 2023-12-14 11:14:34.146 [main] Utils - Read The Properties File 
+[INFO ] 2023-12-14 11:14:34.147 [main] Utils - Get The Data Form Properties File 
+[INFO ] 2023-12-14 11:14:34.147 [main] Commons - Calling LounchBrowser Method To Loanching the Browser
+[INFO ] 2023-12-14 11:14:34.147 [main] Utils - Louching The Chrome Browser
+[INFO ] 2023-12-14 11:14:36.175 [main] Utils - User Given Wait StateMent 
+[INFO ] 2023-12-14 11:14:42.656 [main] Commons - Close The Browser 
+[INFO ] 2023-12-14 11:50:48.189 [main] Commons - Create An Object For Utility Class 
+[INFO ] 2023-12-14 11:50:48.195 [main] Commons - Call The Readproprties Method To Execusion
+[INFO ] 2023-12-14 11:50:48.195 [main] Utils - Read The Properties File 
+[INFO ] 2023-12-14 11:50:48.196 [main] Utils - Get The Data Form Properties File 
+[INFO ] 2023-12-14 11:50:48.196 [main] Commons - Calling LounchBrowser Method To Loanching the Browser
+[INFO ] 2023-12-14 11:50:48.196 [main] Utils - Louching The Chrome Browser
+[INFO ] 2023-12-14 11:50:50.234 [main] Utils - User Given Wait StateMent 
+[INFO ] 2023-12-14 11:50:56.469 [main] Commons - Close The Browser 
+[INFO ] 2023-12-14 12:50:46.369 [main] Commons - Create An Object For Utility Class 
+[INFO ] 2023-12-14 12:50:46.376 [main] Commons - Call The Readproprties Method To Execusion
+[INFO ] 2023-12-14 12:50:46.377 [main] Utils - Read The Properties File 
+[INFO ] 2023-12-14 12:50:46.377 [main] Utils - Get The Data Form Properties File 
+[INFO ] 2023-12-14 12:50:46.377 [main] Commons - Calling LounchBrowser Method To Loanching the Browser
+[INFO ] 2023-12-14 12:50:46.377 [main] Utils - Louching The Chrome Browser
+[INFO ] 2023-12-14 12:50:48.216 [main] Utils - User Given Wait StateMent 
+[INFO ] 2023-12-14 12:50:56.844 [main] Commons - Close The Browser 
+[INFO ] 2023-12-14 15:15:22.117 [main] Commons - Create An Object For Utility Class 
+[INFO ] 2023-12-14 15:15:22.128 [main] Commons - Call The Readproprties Method To Execusion
+[INFO ] 2023-12-14 15:15:22.128 [main] Utils - Read The Properties File 
+[INFO ] 2023-12-14 15:15:22.129 [main] Utils - Get The Data Form Properties File 
+[INFO ] 2023-12-14 15:15:22.129 [main] Commons - Calling LounchBrowser Method To Loanching the Browser
+[INFO ] 2023-12-14 15:15:22.129 [main] Utils - Louching The Chrome Browser
+[INFO ] 2023-12-14 15:15:24.103 [main] Utils - User Given Wait StateMent 
+[INFO ] 2023-12-14 15:15:29.074 [main] Commons - Close The Browser 
+[INFO ] 2023-12-14 15:19:18.308 [main] Commons - Create An Object For Utility Class 
+[INFO ] 2023-12-14 15:19:18.317 [main] Commons - Call The Readproprties Method To Execusion
+[INFO ] 2023-12-14 15:19:18.317 [main] Utils - Read The Properties File 
+[INFO ] 2023-12-14 15:19:18.318 [main] Utils - Get The Data Form Properties File 
+[INFO ] 2023-12-14 15:19:18.318 [main] Commons - Calling LounchBrowser Method To Loanching the Browser
+[INFO ] 2023-12-14 15:19:18.318 [main] Utils - Louching The Chrome Browser
+[INFO ] 2023-12-14 15:19:20.359 [main] Utils - User Given Wait StateMent 
+[INFO ] 2023-12-14 15:19:27.155 [main] Commons - Close The Browser 
+[INFO ] 2023-12-14 15:20:59.055 [main] Commons - Create An Object For Utility Class 
+[INFO ] 2023-12-14 15:20:59.065 [main] Commons - Call The Readproprties Method To Execusion
+[INFO ] 2023-12-14 15:20:59.065 [main] Utils - Read The Properties File 
+[INFO ] 2023-12-14 15:20:59.066 [main] Utils - Get The Data Form Properties File 
+[INFO ] 2023-12-14 15:20:59.066 [main] Commons - Calling LounchBrowser Method To Loanching the Browser
+[INFO ] 2023-12-14 15:20:59.066 [main] Utils - Louching The Chrome Browser
+[INFO ] 2023-12-14 15:21:01.053 [main] Utils - User Given Wait StateMent 
+[INFO ] 2023-12-14 15:21:03.809 [main] Commons - In This Test Scenario As Ben Failed
+[INFO ] 2023-12-14 15:21:03.844 [main] Commons - Close The Browser 
+[INFO ] 2023-12-14 15:25:22.352 [main] Commons - Create An Object For Utility Class 
+[INFO ] 2023-12-14 15:25:22.358 [main] Commons - Call The Readproprties Method To Execusion
+[INFO ] 2023-12-14 15:25:22.358 [main] Utils - Read The Properties File 
+[INFO ] 2023-12-14 15:25:22.358 [main] Utils - Get The Data Form Properties File 
+[INFO ] 2023-12-14 15:25:22.359 [main] Commons - Calling LounchBrowser Method To Loanching the Browser
+[INFO ] 2023-12-14 15:25:22.359 [main] Utils - Louching The Chrome Browser
+[INFO ] 2023-12-14 15:25:23.736 [main] Utils - User Given Wait StateMent 
+[INFO ] 2023-12-14 15:25:26.109 [main] Commons - In This Test Scenario As Ben Failed
+[INFO ] 2023-12-14 15:25:26.129 [main] Commons - Close The Browser 
+[INFO ] 2023-12-14 15:26:36.494 [main] Commons - Create An Object For Utility Class 
+[INFO ] 2023-12-14 15:26:36.501 [main] Commons - Call The Readproprties Method To Execusion
+[INFO ] 2023-12-14 15:26:36.501 [main] Utils - Read The Properties File 
+[INFO ] 2023-12-14 15:26:36.502 [main] Utils - Get The Data Form Properties File 
+[INFO ] 2023-12-14 15:26:36.502 [main] Commons - Calling LounchBrowser Method To Loanching the Browser
+[INFO ] 2023-12-14 15:26:36.515 [main] Commons - Close The Browser 
+[INFO ] 2023-12-14 15:27:37.789 [main] Commons - Create An Object For Utility Class 
+[INFO ] 2023-12-14 15:27:37.795 [main] Commons - Call The Readproprties Method To Execusion
+[INFO ] 2023-12-14 15:27:37.795 [main] Utils - Read The Properties File 
+[INFO ] 2023-12-14 15:27:37.795 [main] Utils - Get The Data Form Properties File 
+[INFO ] 2023-12-14 15:27:37.795 [main] Commons - Calling LounchBrowser Method To Loanching the Browser
+[INFO ] 2023-12-14 15:27:37.795 [main] Utils - Louching The Chrome Browser
+[INFO ] 2023-12-14 15:27:39.203 [main] Utils - User Given Wait StateMent 
+[INFO ] 2023-12-14 15:27:49.489 [main] Commons - Close The Browser 
+[INFO ] 2023-12-14 15:29:05.656 [main] Commons - Create An Object For Utility Class 
+[INFO ] 2023-12-14 15:29:05.661 [main] Commons - Call The Readproprties Method To Execusion
+[INFO ] 2023-12-14 15:29:05.661 [main] Utils - Read The Properties File 
+[INFO ] 2023-12-14 15:29:05.662 [main] Utils - Get The Data Form Properties File 
+[INFO ] 2023-12-14 15:29:05.662 [main] Commons - Calling LounchBrowser Method To Loanching the Browser
+[INFO ] 2023-12-14 15:29:05.662 [main] Utils - Louching The Chrome Browser
+[INFO ] 2023-12-14 15:29:07.350 [main] Utils - User Given Wait StateMent 
+[INFO ] 2023-12-14 15:29:11.856 [main] Commons - Close The Browser 
+[INFO ] 2023-12-14 15:41:24.583 [main] Commons - Create An Object For Utility Class 
+[INFO ] 2023-12-14 15:41:24.589 [main] Commons - Call The Readproprties Method To Execusion
+[INFO ] 2023-12-14 15:41:24.589 [main] Utils - Read The Properties File 
+[INFO ] 2023-12-14 15:41:24.590 [main] Utils - Get The Data Form Properties File 
+[INFO ] 2023-12-14 15:41:24.590 [main] Commons - Calling LounchBrowser Method To Loanching the Browser
+[INFO ] 2023-12-14 15:41:24.590 [main] Utils - Louching The Chrome Browser
+[INFO ] 2023-12-14 15:41:26.251 [main] Utils - User Given Wait StateMent 
+[INFO ] 2023-12-14 15:41:30.949 [main] Commons - Close The Browser 
+[INFO ] 2023-12-14 16:34:35.135 [main] Commons - Create An Object For Utility Class 
+[INFO ] 2023-12-14 16:34:35.142 [main] Commons - Call The Readproprties Method To Execusion
+[INFO ] 2023-12-14 16:34:35.142 [main] Utils - Read The Properties File 
+[INFO ] 2023-12-14 16:34:35.143 [main] Utils - Get The Data Form Properties File 
+[INFO ] 2023-12-14 16:34:35.143 [main] Commons - Calling LounchBrowser Method To Loanching the Browser
+[INFO ] 2023-12-14 16:34:35.143 [main] Utils - Louching The Chrome Browser
+[INFO ] 2023-12-14 16:34:36.519 [main] Utils - User Given Wait StateMent 
+[INFO ] 2023-12-14 16:34:50.138 [main] Commons - Close The Browser 
+[INFO ] 2023-12-14 17:02:48.738 [main] Commons - Create An Object For Utility Class 
+[INFO ] 2023-12-14 17:02:48.747 [main] Commons - Call The Readproprties Method To Execusion
+[INFO ] 2023-12-14 17:02:48.747 [main] Utils - Read The Properties File 
+[INFO ] 2023-12-14 17:02:48.748 [main] Utils - Get The Data Form Properties File 
+[INFO ] 2023-12-14 17:02:48.748 [main] Commons - Calling LounchBrowser Method To Loanching the Browser
+[INFO ] 2023-12-14 17:02:48.748 [main] Utils - Louching The Chrome Browser
+[INFO ] 2023-12-14 17:02:50.491 [main] Utils - User Given Wait StateMent 
+[INFO ] 2023-12-14 17:02:57.565 [main] Commons - In This Test Scenario As Ben FailedUser Able To Add Shop Product To The Cart Page
+[INFO ] 2023-12-14 17:02:57.602 [main] Commons - Close The Browser 
+[INFO ] 2023-12-14 17:11:00.127 [main] Commons - Create An Object For Utility Class 
+[INFO ] 2023-12-14 17:11:00.135 [main] Commons - Call The Readproprties Method To Execusion
+[INFO ] 2023-12-14 17:11:00.135 [main] Utils - Read The Properties File 
+[INFO ] 2023-12-14 17:11:00.136 [main] Utils - Get The Data Form Properties File 
+[INFO ] 2023-12-14 17:11:00.136 [main] Commons - Calling LounchBrowser Method To Loanching the Browser
+[INFO ] 2023-12-14 17:11:00.136 [main] Utils - Louching The Chrome Browser
+[INFO ] 2023-12-14 17:11:01.812 [main] Utils - User Given Wait StateMent 
+[INFO ] 2023-12-14 17:11:26.912 [main] Commons - In This Test Scenario As Ben FailedUser Able To Add Shop Product To The Cart Page
+[INFO ] 2023-12-14 17:11:27.228 [main] Commons - Close The Browser 
+[INFO ] 2023-12-14 17:14:29.241 [main] Commons - Create An Object For Utility Class 
+[INFO ] 2023-12-14 17:14:29.250 [main] Commons - Call The Readproprties Method To Execusion
+[INFO ] 2023-12-14 17:14:29.250 [main] Utils - Read The Properties File 
+[INFO ] 2023-12-14 17:14:29.251 [main] Utils - Get The Data Form Properties File 
+[INFO ] 2023-12-14 17:14:29.251 [main] Commons - Calling LounchBrowser Method To Loanching the Browser
+[INFO ] 2023-12-14 17:14:29.251 [main] Utils - Louching The Chrome Browser
+[INFO ] 2023-12-14 17:14:30.865 [main] Utils - User Given Wait StateMent 
+[INFO ] 2023-12-14 17:14:43.139 [main] Commons - Close The Browser 
+[INFO ] 2023-12-14 18:26:54.309 [main] Commons - Create An Object For Utility Class 
+[INFO ] 2023-12-14 18:26:54.317 [main] Commons - Call The Readproprties Method To Execusion
+[INFO ] 2023-12-14 18:26:54.318 [main] Utils - Read The Properties File 
+[INFO ] 2023-12-14 18:26:54.318 [main] Utils - Get The Data Form Properties File 
+[INFO ] 2023-12-14 18:26:54.318 [main] Commons - Calling LounchBrowser Method To Loanching the Browser
+[INFO ] 2023-12-14 18:26:54.318 [main] Utils - Louching The Chrome Browser
+[INFO ] 2023-12-14 18:26:55.782 [main] Utils - User Given Wait StateMent 
+[INFO ] 2023-12-14 18:27:00.609 [main] Commons - Close The Browser 
+[INFO ] 2023-12-14 18:27:01.014 [main] Commons - Create An Object For Utility Class 
+[INFO ] 2023-12-14 18:27:01.016 [main] Commons - Call The Readproprties Method To Execusion
+[INFO ] 2023-12-14 18:27:01.016 [main] Utils - Read The Properties File 
+[INFO ] 2023-12-14 18:27:01.016 [main] Utils - Get The Data Form Properties File 
+[INFO ] 2023-12-14 18:27:01.017 [main] Commons - Calling LounchBrowser Method To Loanching the Browser
+[INFO ] 2023-12-14 18:27:01.017 [main] Utils - Louching The Chrome Browser
+[INFO ] 2023-12-14 18:27:02.256 [main] Utils - User Given Wait StateMent 
+[INFO ] 2023-12-14 18:27:27.749 [main] Commons - In This Test Scenario As Ben FailedUser Able To Add New Arraivels Product To The Shooping Bage
+[INFO ] 2023-12-14 18:27:28.439 [main] Commons - Close The Browser 
+[INFO ] 2023-12-14 18:27:28.765 [main] Commons - Create An Object For Utility Class 
+[INFO ] 2023-12-14 18:27:28.767 [main] Commons - Call The Readproprties Method To Execusion
+[INFO ] 2023-12-14 18:27:28.767 [main] Utils - Read The Properties File 
+[INFO ] 2023-12-14 18:27:28.768 [main] Utils - Get The Data Form Properties File 
+[INFO ] 2023-12-14 18:27:28.768 [main] Commons - Calling LounchBrowser Method To Loanching the Browser
+[INFO ] 2023-12-14 18:27:28.769 [main] Utils - Louching The Chrome Browser
+[INFO ] 2023-12-14 18:27:29.818 [main] Utils - User Given Wait StateMent 
+[INFO ] 2023-12-14 18:27:43.260 [main] Commons - Close The Browser 
+[INFO ] 2023-12-14 18:28:10.357 [main] Commons - Create An Object For Utility Class 
+[INFO ] 2023-12-14 18:28:10.367 [main] Commons - Call The Readproprties Method To Execusion
+[INFO ] 2023-12-14 18:28:10.367 [main] Utils - Read The Properties File 
+[INFO ] 2023-12-14 18:28:10.368 [main] Utils - Get The Data Form Properties File 
+[INFO ] 2023-12-14 18:28:10.368 [main] Commons - Calling LounchBrowser Method To Loanching the Browser
+[INFO ] 2023-12-14 18:28:10.368 [main] Utils - Louching The Chrome Browser
+[INFO ] 2023-12-14 18:28:11.824 [main] Utils - User Given Wait StateMent 
+[INFO ] 2023-12-14 18:28:36.515 [main] Commons - In This Test Scenario As Ben FailedUser Able To Add New Arraivels Product To The Shooping Bage
+[INFO ] 2023-12-14 18:28:37.298 [main] Commons - Close The Browser 
+[INFO ] 2023-12-14 18:28:37.619 [main] Commons - Create An Object For Utility Class 
+[INFO ] 2023-12-14 18:28:37.620 [main] Commons - Call The Readproprties Method To Execusion
+[INFO ] 2023-12-14 18:28:37.620 [main] Utils - Read The Properties File 
+[INFO ] 2023-12-14 18:28:37.622 [main] Utils - Get The Data Form Properties File 
+[INFO ] 2023-12-14 18:28:37.622 [main] Commons - Calling LounchBrowser Method To Loanching the Browser
+[INFO ] 2023-12-14 18:28:37.622 [main] Utils - Louching The Chrome Browser
+[INFO ] 2023-12-14 18:28:38.702 [main] Utils - User Given Wait StateMent 
+[INFO ] 2023-12-14 18:28:51.686 [main] Commons - Close The Browser 
+[INFO ] 2023-12-18 11:07:27.680 [main] Commons - Create An Object For Utility Class 
+[INFO ] 2023-12-18 11:07:27.704 [main] Commons - Call The Readproprties Method To Execusion
+[INFO ] 2023-12-18 11:07:27.704 [main] Utils - Read The Properties File 
+[INFO ] 2023-12-18 11:07:27.706 [main] Utils - Get The Data Form Properties File 
+[INFO ] 2023-12-18 11:07:27.706 [main] Commons - Calling LounchBrowser Method To Loanching the Browser
+[INFO ] 2023-12-18 11:07:27.706 [main] Utils - Louching The Chrome Browser
+[INFO ] 2023-12-18 11:07:29.408 [main] Utils - User Given Wait StateMent 
+[INFO ] 2023-12-18 11:07:56.243 [main] Commons - In This Test Scenario As Ben FailedUser Able To Add New Arraivels Product To The Shooping Bage
+[INFO ] 2023-12-18 11:07:56.916 [main] Commons - Close The Browser 
+[INFO ] 2023-12-18 11:07:57.280 [main] Commons - Create An Object For Utility Class 
+[INFO ] 2023-12-18 11:07:57.281 [main] Commons - Call The Readproprties Method To Execusion
+[INFO ] 2023-12-18 11:07:57.281 [main] Utils - Read The Properties File 
+[INFO ] 2023-12-18 11:07:57.281 [main] Utils - Get The Data Form Properties File 
+[INFO ] 2023-12-18 11:07:57.282 [main] Commons - Calling LounchBrowser Method To Loanching the Browser
+[INFO ] 2023-12-18 11:07:57.282 [main] Utils - Louching The Chrome Browser
+[INFO ] 2023-12-18 11:07:58.361 [main] Utils - User Given Wait StateMent 
+[INFO ] 2023-12-18 11:08:14.024 [main] Commons - Close The Browser 
+[INFO ] 2023-12-18 11:23:59.932 [main] Commons - Create An Object For Utility Class 
+[INFO ] 2023-12-18 11:23:59.941 [main] Commons - Call The Readproprties Method To Execusion
+[INFO ] 2023-12-18 11:23:59.941 [main] Utils - Read The Properties File 
+[INFO ] 2023-12-18 11:23:59.941 [main] Utils - Get The Data Form Properties File 
+[INFO ] 2023-12-18 11:23:59.941 [main] Commons - Calling LounchBrowser Method To Loanching the Browser
+[INFO ] 2023-12-18 11:23:59.941 [main] Utils - Louching The Chrome Browser
+[INFO ] 2023-12-18 11:24:01.648 [main] Utils - User Given Wait StateMent 
+[INFO ] 2023-12-18 11:24:28.976 [main] Commons - In This Test Scenario As Ben FailedUser Able To Add New Arraivels Product To The Shooping Bage
+[INFO ] 2023-12-18 11:24:29.795 [main] Commons - Close The Browser 
+[INFO ] 2023-12-18 11:24:30.152 [main] Commons - Create An Object For Utility Class 
+[INFO ] 2023-12-18 11:24:30.158 [main] Commons - Call The Readproprties Method To Execusion
+[INFO ] 2023-12-18 11:24:30.159 [main] Utils - Read The Properties File 
+[INFO ] 2023-12-18 11:24:30.159 [main] Utils - Get The Data Form Properties File 
+[INFO ] 2023-12-18 11:24:30.159 [main] Commons - Calling LounchBrowser Method To Loanching the Browser
+[INFO ] 2023-12-18 11:24:30.159 [main] Utils - Louching The Chrome Browser
+[INFO ] 2023-12-18 11:24:31.294 [main] Utils - User Given Wait StateMent 
+[INFO ] 2023-12-18 11:24:44.004 [main] Commons - Close The Browser 
+[INFO ] 2023-12-18 11:29:22.287 [main] Commons - Create An Object For Utility Class 
+[INFO ] 2023-12-18 11:29:22.296 [main] Commons - Call The Readproprties Method To Execusion
+[INFO ] 2023-12-18 11:29:22.297 [main] Utils - Read The Properties File 
+[INFO ] 2023-12-18 11:29:22.297 [main] Utils - Get The Data Form Properties File 
+[INFO ] 2023-12-18 11:29:22.298 [main] Commons - Calling LounchBrowser Method To Loanching the Browser
+[INFO ] 2023-12-18 11:29:22.298 [main] Utils - Louching The Chrome Browser
+[INFO ] 2023-12-18 11:29:24.008 [main] Utils - User Given Wait StateMent 
+[INFO ] 2023-12-18 11:29:50.958 [main] Commons - In This Test Scenario As Ben FailedUser Able To Add New Arraivels Product To The Shooping Bage
+[INFO ] 2023-12-18 11:29:51.680 [main] Commons - Close The Browser 
+[INFO ] 2023-12-18 11:32:22.322 [main] Commons - Create An Object For Utility Class 
+[INFO ] 2023-12-18 11:32:22.332 [main] Commons - Call The Readproprties Method To Execusion
+[INFO ] 2023-12-18 11:32:22.333 [main] Utils - Read The Properties File 
+[INFO ] 2023-12-18 11:32:22.333 [main] Utils - Get The Data Form Properties File 
+[INFO ] 2023-12-18 11:32:22.333 [main] Commons - Calling LounchBrowser Method To Loanching the Browser
+[INFO ] 2023-12-18 11:32:22.333 [main] Utils - Louching The Chrome Browser
+[INFO ] 2023-12-18 11:32:23.915 [main] Utils - User Given Wait StateMent 
+[INFO ] 2023-12-18 11:32:44.752 [main] Commons - In This Test Scenario As Ben FailedUser Able To Add New Arraivels Product To The Shooping Bage
+[INFO ] 2023-12-18 11:32:44.782 [main] Commons - Close The Browser 
+[INFO ] 2023-12-18 11:33:30.637 [main] Commons - Create An Object For Utility Class 
+[INFO ] 2023-12-18 11:33:30.646 [main] Commons - Call The Readproprties Method To Execusion
+[INFO ] 2023-12-18 11:33:30.646 [main] Utils - Read The Properties File 
+[INFO ] 2023-12-18 11:33:30.647 [main] Utils - Get The Data Form Properties File 
+[INFO ] 2023-12-18 11:33:30.647 [main] Commons - Calling LounchBrowser Method To Loanching the Browser
+[INFO ] 2023-12-18 11:33:30.647 [main] Utils - Louching The Chrome Browser
+[INFO ] 2023-12-18 11:33:32.415 [main] Utils - User Given Wait StateMent 
+[INFO ] 2023-12-18 11:34:00.903 [main] Commons - In This Test Scenario As Ben FailedUser Able To Add New Arraivels Product To The Shooping Bage
+[INFO ] 2023-12-18 11:34:01.538 [main] Commons - Close The Browser 
+[INFO ] 2023-12-18 11:34:49.260 [main] Commons - Create An Object For Utility Class 
+[INFO ] 2023-12-18 11:34:49.269 [main] Commons - Call The Readproprties Method To Execusion
+[INFO ] 2023-12-18 11:34:49.269 [main] Utils - Read The Properties File 
+[INFO ] 2023-12-18 11:34:49.269 [main] Utils - Get The Data Form Properties File 
+[INFO ] 2023-12-18 11:34:49.270 [main] Commons - Calling LounchBrowser Method To Loanching the Browser
+[INFO ] 2023-12-18 11:34:49.270 [main] Utils - Louching The Chrome Browser
+[INFO ] 2023-12-18 11:34:50.970 [main] Utils - User Given Wait StateMent 
+[INFO ] 2023-12-18 11:35:20.640 [main] Commons - In This Test Scenario As Ben FailedUser Able To Add New Arraivels Product To The Shooping Bage
+[INFO ] 2023-12-18 11:35:21.174 [main] Commons - Close The Browser 
+[INFO ] 2023-12-18 11:35:59.913 [main] Commons - Create An Object For Utility Class 
+[INFO ] 2023-12-18 11:35:59.921 [main] Commons - Call The Readproprties Method To Execusion
+[INFO ] 2023-12-18 11:35:59.921 [main] Utils - Read The Properties File 
+[INFO ] 2023-12-18 11:35:59.922 [main] Utils - Get The Data Form Properties File 
+[INFO ] 2023-12-18 11:35:59.922 [main] Commons - Calling LounchBrowser Method To Loanching the Browser
+[INFO ] 2023-12-18 11:35:59.922 [main] Utils - Louching The Chrome Browser
+[INFO ] 2023-12-18 11:36:01.821 [main] Utils - User Given Wait StateMent 
+[INFO ] 2023-12-18 11:36:27.361 [main] Commons - In This Test Scenario As Ben FailedUser Able To Add New Arraivels Product To The Shooping Bage
+[INFO ] 2023-12-18 11:36:27.435 [main] Commons - Close The Browser 
+[INFO ] 2023-12-18 11:37:16.643 [main] Commons - Create An Object For Utility Class 
+[INFO ] 2023-12-18 11:37:16.652 [main] Commons - Call The Readproprties Method To Execusion
+[INFO ] 2023-12-18 11:37:16.653 [main] Utils - Read The Properties File 
+[INFO ] 2023-12-18 11:37:16.653 [main] Utils - Get The Data Form Properties File 
+[INFO ] 2023-12-18 11:37:16.653 [main] Commons - Calling LounchBrowser Method To Loanching the Browser
+[INFO ] 2023-12-18 11:37:16.653 [main] Utils - Louching The Chrome Browser
+[INFO ] 2023-12-18 11:37:17.967 [main] Utils - User Given Wait StateMent 
+[INFO ] 2023-12-18 11:37:55.615 [main] Commons - In This Test Scenario As Ben FailedUser Able To Add New Arraivels Product To The Shooping Bage
+[INFO ] 2023-12-18 11:37:56.390 [main] Commons - Close The Browser 
+[INFO ] 2023-12-18 11:38:39.860 [main] Commons - Create An Object For Utility Class 
+[INFO ] 2023-12-18 11:38:39.868 [main] Commons - Call The Readproprties Method To Execusion
+[INFO ] 2023-12-18 11:38:39.868 [main] Utils - Read The Properties File 
+[INFO ] 2023-12-18 11:38:39.869 [main] Utils - Get The Data Form Properties File 
+[INFO ] 2023-12-18 11:38:39.869 [main] Commons - Calling LounchBrowser Method To Loanching the Browser
+[INFO ] 2023-12-18 11:38:39.869 [main] Utils - Louching The Chrome Browser
+[INFO ] 2023-12-18 11:38:41.422 [main] Utils - User Given Wait StateMent 
+[INFO ] 2023-12-18 11:39:11.436 [main] Commons - In This Test Scenario As Ben FailedUser Able To Add New Arraivels Product To The Shooping Bage
+[INFO ] 2023-12-18 11:39:12.111 [main] Commons - Close The Browser 
+[INFO ] 2023-12-18 11:39:53.084 [main] Commons - Create An Object For Utility Class 
+[INFO ] 2023-12-18 11:39:53.094 [main] Commons - Call The Readproprties Method To Execusion
+[INFO ] 2023-12-18 11:39:53.094 [main] Utils - Read The Properties File 
+[INFO ] 2023-12-18 11:39:53.095 [main] Utils - Get The Data Form Properties File 
+[INFO ] 2023-12-18 11:39:53.095 [main] Commons - Calling LounchBrowser Method To Loanching the Browser
+[INFO ] 2023-12-18 11:39:53.095 [main] Utils - Louching The Chrome Browser
+[INFO ] 2023-12-18 11:39:54.792 [main] Utils - User Given Wait StateMent 
+[INFO ] 2023-12-18 11:40:04.686 [main] Commons - In This Test Scenario As Ben FailedUser Able To Add Shop Product To The Cart Page
+[INFO ] 2023-12-18 11:40:05.786 [main] Commons - Close The Browser 
+[INFO ] 2023-12-18 11:40:49.039 [main] Commons - Create An Object For Utility Class 
+[INFO ] 2023-12-18 11:40:49.049 [main] Commons - Call The Readproprties Method To Execusion
+[INFO ] 2023-12-18 11:40:49.049 [main] Utils - Read The Properties File 
+[INFO ] 2023-12-18 11:40:49.050 [main] Utils - Get The Data Form Properties File 
+[INFO ] 2023-12-18 11:40:49.050 [main] Commons - Calling LounchBrowser Method To Loanching the Browser
+[INFO ] 2023-12-18 11:40:49.050 [main] Utils - Louching The Chrome Browser
+[INFO ] 2023-12-18 11:40:50.505 [main] Utils - User Given Wait StateMent 
+[INFO ] 2023-12-18 11:41:04.411 [main] Commons - Close The Browser 
+[INFO ] 2023-12-18 11:45:23.247 [main] Commons - Create An Object For Utility Class 
+[INFO ] 2023-12-18 11:45:23.254 [main] Commons - Call The Readproprties Method To Execusion
+[INFO ] 2023-12-18 11:45:23.254 [main] Utils - Read The Properties File 
+[INFO ] 2023-12-18 11:45:23.254 [main] Utils - Get The Data Form Properties File 
+[INFO ] 2023-12-18 11:45:23.254 [main] Commons - Calling LounchBrowser Method To Loanching the Browser
+[INFO ] 2023-12-18 11:45:23.255 [main] Utils - Louching The Chrome Browser
+[INFO ] 2023-12-18 11:45:24.970 [main] Utils - User Given Wait StateMent 
+[INFO ] 2023-12-18 11:45:30.152 [main] Commons - Close The Browser 
+[INFO ] 2023-12-18 11:46:39.984 [main] Commons - Create An Object For Utility Class 
+[INFO ] 2023-12-18 11:46:39.991 [main] Commons - Call The Readproprties Method To Execusion
+[INFO ] 2023-12-18 11:46:39.991 [main] Utils - Read The Properties File 
+[INFO ] 2023-12-18 11:46:39.992 [main] Utils - Get The Data Form Properties File 
+[INFO ] 2023-12-18 11:46:39.992 [main] Commons - Calling LounchBrowser Method To Loanching the Browser
+[INFO ] 2023-12-18 11:46:39.992 [main] Utils - Louching The Chrome Browser
+[INFO ] 2023-12-18 11:46:41.548 [main] Utils - User Given Wait StateMent 
+[INFO ] 2023-12-18 11:47:09.746 [main] Commons - In This Test Scenario As Ben FailedUser Able To Add New Arraivels Product To The Shooping Bage
+[INFO ] 2023-12-18 11:47:10.566 [main] Commons - Close The Browser 
+[INFO ] 2023-12-18 11:47:58.489 [main] Commons - Create An Object For Utility Class 
+[INFO ] 2023-12-18 11:47:58.498 [main] Commons - Call The Readproprties Method To Execusion
+[INFO ] 2023-12-18 11:47:58.498 [main] Utils - Read The Properties File 
+[INFO ] 2023-12-18 11:47:58.499 [main] Utils - Get The Data Form Properties File 
+[INFO ] 2023-12-18 11:47:58.499 [main] Commons - Calling LounchBrowser Method To Loanching the Browser
+[INFO ] 2023-12-18 11:47:58.499 [main] Utils - Louching The Chrome Browser
+[INFO ] 2023-12-18 11:47:59.930 [main] Utils - User Given Wait StateMent 
+[INFO ] 2023-12-18 11:48:18.081 [main] Commons - In This Test Scenario As Ben FailedUser Able To Add New Arraivels Product To The Shooping Bage
+[INFO ] 2023-12-18 11:48:18.220 [main] Commons - Close The Browser 
+[INFO ] 2023-12-18 11:49:02.991 [main] Commons - Create An Object For Utility Class 
+[INFO ] 2023-12-18 11:49:02.999 [main] Commons - Call The Readproprties Method To Execusion
+[INFO ] 2023-12-18 11:49:02.999 [main] Utils - Read The Properties File 
+[INFO ] 2023-12-18 11:49:03.001 [main] Utils - Get The Data Form Properties File 
+[INFO ] 2023-12-18 11:49:03.001 [main] Commons - Calling LounchBrowser Method To Loanching the Browser
+[INFO ] 2023-12-18 11:49:03.001 [main] Utils - Louching The Chrome Browser
+[INFO ] 2023-12-18 11:49:04.739 [main] Utils - User Given Wait StateMent 
+[INFO ] 2023-12-18 11:58:06.182 [main] Commons - Create An Object For Utility Class 
+[INFO ] 2023-12-18 11:58:06.191 [main] Commons - Call The Readproprties Method To Execusion
+[INFO ] 2023-12-18 11:58:06.192 [main] Utils - Read The Properties File 
+[INFO ] 2023-12-18 11:58:06.192 [main] Utils - Get The Data Form Properties File 
+[INFO ] 2023-12-18 11:58:06.192 [main] Commons - Calling LounchBrowser Method To Loanching the Browser
+[INFO ] 2023-12-18 11:58:06.193 [main] Utils - Louching The Chrome Browser
+[INFO ] 2023-12-18 11:58:07.886 [main] Utils - User Given Wait StateMent 
+[INFO ] 2023-12-18 11:58:19.689 [main] Commons - In This Test Scenario As Ben FailedUser Able To Add New Arraivels Product To The Shooping Bage
+[INFO ] 2023-12-18 11:58:19.808 [main] Commons - Close The Browser 
+[INFO ] 2023-12-18 11:59:35.343 [main] Commons - Create An Object For Utility Class 
+[INFO ] 2023-12-18 11:59:35.354 [main] Commons - Call The Readproprties Method To Execusion
+[INFO ] 2023-12-18 11:59:35.355 [main] Utils - Read The Properties File 
+[INFO ] 2023-12-18 11:59:35.355 [main] Utils - Get The Data Form Properties File 
+[INFO ] 2023-12-18 11:59:35.355 [main] Commons - Calling LounchBrowser Method To Loanching the Browser
+[INFO ] 2023-12-18 11:59:35.355 [main] Utils - Louching The Chrome Browser
+[INFO ] 2023-12-18 11:59:37.051 [main] Utils - User Given Wait StateMent 
+[INFO ] 2023-12-18 12:01:59.347 [main] Commons - Create An Object For Utility Class 
+[INFO ] 2023-12-18 12:01:59.357 [main] Commons - Call The Readproprties Method To Execusion
+[INFO ] 2023-12-18 12:01:59.357 [main] Utils - Read The Properties File 
+[INFO ] 2023-12-18 12:01:59.358 [main] Utils - Get The Data Form Properties File 
+[INFO ] 2023-12-18 12:01:59.358 [main] Commons - Calling LounchBrowser Method To Loanching the Browser
+[INFO ] 2023-12-18 12:01:59.358 [main] Utils - Louching The Chrome Browser
+[INFO ] 2023-12-18 12:02:00.956 [main] Utils - User Given Wait StateMent 
+[INFO ] 2023-12-18 12:04:23.281 [main] Commons - Create An Object For Utility Class 
+[INFO ] 2023-12-18 12:04:23.289 [main] Commons - Call The Readproprties Method To Execusion
+[INFO ] 2023-12-18 12:04:23.289 [main] Utils - Read The Properties File 
+[INFO ] 2023-12-18 12:04:23.290 [main] Utils - Get The Data Form Properties File 
+[INFO ] 2023-12-18 12:04:23.290 [main] Commons - Calling LounchBrowser Method To Loanching the Browser
+[INFO ] 2023-12-18 12:04:23.290 [main] Utils - Louching The Chrome Browser
+[INFO ] 2023-12-18 12:04:24.885 [main] Utils - User Given Wait StateMent 
+[INFO ] 2023-12-18 12:11:25.979 [main] Commons - Create An Object For Utility Class 
+[INFO ] 2023-12-18 12:11:25.989 [main] Commons - Call The Readproprties Method To Execusion
+[INFO ] 2023-12-18 12:11:25.989 [main] Utils - Read The Properties File 
+[INFO ] 2023-12-18 12:11:25.990 [main] Utils - Get The Data Form Properties File 
+[INFO ] 2023-12-18 12:11:25.990 [main] Commons - Calling LounchBrowser Method To Loanching the Browser
+[INFO ] 2023-12-18 12:11:25.990 [main] Utils - Louching The Chrome Browser
+[INFO ] 2023-12-18 12:11:27.964 [main] Utils - User Given Wait StateMent 
+[INFO ] 2023-12-18 12:12:01.095 [main] Commons - In This Test Scenario As Ben FailedUser Able To Add New Arraivels Product To The Shooping Bage
+[INFO ] 2023-12-18 12:12:06.149 [main] Commons - Close The Browser 
+[INFO ] 2023-12-18 12:12:39.683 [main] Commons - Create An Object For Utility Class 
+[INFO ] 2023-12-18 12:12:39.693 [main] Commons - Call The Readproprties Method To Execusion
+[INFO ] 2023-12-18 12:12:39.693 [main] Utils - Read The Properties File 
+[INFO ] 2023-12-18 12:12:39.693 [main] Utils - Get The Data Form Properties File 
+[INFO ] 2023-12-18 12:12:39.694 [main] Commons - Calling LounchBrowser Method To Loanching the Browser
+[INFO ] 2023-12-18 12:12:39.694 [main] Utils - Louching The Chrome Browser
+[INFO ] 2023-12-18 12:12:41.264 [main] Utils - User Given Wait StateMent 
+[INFO ] 2023-12-18 12:16:47.606 [main] Commons - Create An Object For Utility Class 
+[INFO ] 2023-12-18 12:16:47.616 [main] Commons - Call The Readproprties Method To Execusion
+[INFO ] 2023-12-18 12:16:47.616 [main] Utils - Read The Properties File 
+[INFO ] 2023-12-18 12:16:47.618 [main] Utils - Get The Data Form Properties File 
+[INFO ] 2023-12-18 12:16:47.618 [main] Commons - Calling LounchBrowser Method To Loanching the Browser
+[INFO ] 2023-12-18 12:16:47.618 [main] Utils - Louching The Chrome Browser
+[INFO ] 2023-12-18 12:16:49.069 [main] Utils - User Given Wait StateMent 
+[INFO ] 2023-12-18 12:16:57.920 [main] Commons - Close The Browser 
+[INFO ] 2023-12-18 12:17:52.978 [main] Commons - Create An Object For Utility Class 
+[INFO ] 2023-12-18 12:17:52.985 [main] Commons - Call The Readproprties Method To Execusion
+[INFO ] 2023-12-18 12:17:52.985 [main] Utils - Read The Properties File 
+[INFO ] 2023-12-18 12:17:52.986 [main] Utils - Get The Data Form Properties File 
+[INFO ] 2023-12-18 12:17:52.986 [main] Commons - Calling LounchBrowser Method To Loanching the Browser
+[INFO ] 2023-12-18 12:17:52.986 [main] Utils - Louching The Chrome Browser
+[INFO ] 2023-12-18 12:17:54.535 [main] Utils - User Given Wait StateMent 
+[INFO ] 2023-12-18 12:18:01.839 [main] Commons - Close The Browser 
+[INFO ] 2023-12-18 12:19:12.153 [main] Commons - Create An Object For Utility Class 
+[INFO ] 2023-12-18 12:19:12.161 [main] Commons - Call The Readproprties Method To Execusion
+[INFO ] 2023-12-18 12:19:12.161 [main] Utils - Read The Properties File 
+[INFO ] 2023-12-18 12:19:12.162 [main] Utils - Get The Data Form Properties File 
+[INFO ] 2023-12-18 12:19:12.162 [main] Commons - Calling LounchBrowser Method To Loanching the Browser
+[INFO ] 2023-12-18 12:19:12.162 [main] Utils - Louching The Chrome Browser
+[INFO ] 2023-12-18 12:19:13.961 [main] Utils - User Given Wait StateMent 
+[INFO ] 2023-12-18 12:19:40.070 [main] Commons - Close The Browser 
+[INFO ] 2023-12-18 12:20:46.626 [main] Commons - Create An Object For Utility Class 
+[INFO ] 2023-12-18 12:20:46.633 [main] Commons - Call The Readproprties Method To Execusion
+[INFO ] 2023-12-18 12:20:46.633 [main] Utils - Read The Properties File 
+[INFO ] 2023-12-18 12:20:46.634 [main] Utils - Get The Data Form Properties File 
+[INFO ] 2023-12-18 12:20:46.634 [main] Commons - Calling LounchBrowser Method To Loanching the Browser
+[INFO ] 2023-12-18 12:20:46.634 [main] Utils - Louching The Chrome Browser
+[INFO ] 2023-12-18 12:20:48.205 [main] Utils - User Given Wait StateMent 
+[INFO ] 2023-12-18 12:21:15.014 [main] Commons - Close The Browser 
+[INFO ] 2023-12-18 12:24:54.102 [main] Commons - Create An Object For Utility Class 
+[INFO ] 2023-12-18 12:24:54.109 [main] Commons - Call The Readproprties Method To Execusion
+[INFO ] 2023-12-18 12:24:54.110 [main] Utils - Read The Properties File 
+[INFO ] 2023-12-18 12:24:54.110 [main] Utils - Get The Data Form Properties File 
+[INFO ] 2023-12-18 12:24:54.110 [main] Commons - Calling LounchBrowser Method To Loanching the Browser
+[INFO ] 2023-12-18 12:24:54.110 [main] Utils - Louching The Chrome Browser
+[INFO ] 2023-12-18 12:24:55.569 [main] Utils - User Given Wait StateMent 
+[INFO ] 2023-12-18 12:25:00.518 [main] Commons - Close The Browser 
+[INFO ] 2023-12-18 12:25:00.761 [main] Commons - Create An Object For Utility Class 
+[INFO ] 2023-12-18 12:25:00.762 [main] Commons - Call The Readproprties Method To Execusion
+[INFO ] 2023-12-18 12:25:00.762 [main] Utils - Read The Properties File 
+[INFO ] 2023-12-18 12:25:00.763 [main] Utils - Get The Data Form Properties File 
+[INFO ] 2023-12-18 12:25:00.763 [main] Commons - Calling LounchBrowser Method To Loanching the Browser
+[INFO ] 2023-12-18 12:25:00.763 [main] Utils - Louching The Chrome Browser
+[INFO ] 2023-12-18 12:25:01.782 [main] Utils - User Given Wait StateMent 
+[INFO ] 2023-12-18 12:25:08.562 [main] Commons - In This Test Scenario As Ben FailedUser Able To Add New Arraivels Product To The Shooping Bage
+[INFO ] 2023-12-18 12:25:09.015 [main] Commons - Close The Browser 
+[INFO ] 2023-12-18 12:25:09.293 [main] Commons - Create An Object For Utility Class 
+[INFO ] 2023-12-18 12:25:09.294 [main] Commons - Call The Readproprties Method To Execusion
+[INFO ] 2023-12-18 12:25:09.294 [main] Utils - Read The Properties File 
+[INFO ] 2023-12-18 12:25:09.295 [main] Utils - Get The Data Form Properties File 
+[INFO ] 2023-12-18 12:25:09.295 [main] Commons - Calling LounchBrowser Method To Loanching the Browser
+[INFO ] 2023-12-18 12:25:09.295 [main] Utils - Louching The Chrome Browser
+[INFO ] 2023-12-18 12:25:10.414 [main] Utils - User Given Wait StateMent 
+[INFO ] 2023-12-18 12:25:15.766 [main] Commons - In This Test Scenario As Ben FailedUser Able To Add Shop Product To The Cart Page
+[INFO ] 2023-12-18 12:25:16.176 [main] Commons - Close The Browser 
+[INFO ] 2023-12-18 12:26:49.449 [main] Commons - Create An Object For Utility Class 
+[INFO ] 2023-12-18 12:26:49.457 [main] Commons - Call The Readproprties Method To Execusion
+[INFO ] 2023-12-18 12:26:49.457 [main] Utils - Read The Properties File 
+[INFO ] 2023-12-18 12:26:49.457 [main] Utils - Get The Data Form Properties File 
+[INFO ] 2023-12-18 12:26:49.457 [main] Commons - Calling LounchBrowser Method To Loanching the Browser
+[INFO ] 2023-12-18 12:26:49.458 [main] Utils - Louching The Chrome Browser
+[INFO ] 2023-12-18 12:26:51.077 [main] Utils - User Given Wait StateMent 
+[INFO ] 2023-12-18 12:26:56.213 [main] Commons - Close The Browser 
+[INFO ] 2023-12-18 12:26:56.481 [main] Commons - Create An Object For Utility Class 
+[INFO ] 2023-12-18 12:26:56.483 [main] Commons - Call The Readproprties Method To Execusion
+[INFO ] 2023-12-18 12:26:56.483 [main] Utils - Read The Properties File 
+[INFO ] 2023-12-18 12:26:56.483 [main] Utils - Get The Data Form Properties File 
+[INFO ] 2023-12-18 12:26:56.483 [main] Commons - Calling LounchBrowser Method To Loanching the Browser
+[INFO ] 2023-12-18 12:26:56.483 [main] Utils - Louching The Chrome Browser
+[INFO ] 2023-12-18 12:26:57.515 [main] Utils - User Given Wait StateMent 
+[INFO ] 2023-12-18 12:27:03.492 [main] Commons - Close The Browser 
+[INFO ] 2023-12-18 12:27:03.750 [main] Commons - Create An Object For Utility Class 
+[INFO ] 2023-12-18 12:27:03.753 [main] Commons - Call The Readproprties Method To Execusion
+[INFO ] 2023-12-18 12:27:03.755 [main] Utils - Read The Properties File 
+[INFO ] 2023-12-18 12:27:03.757 [main] Utils - Get The Data Form Properties File 
+[INFO ] 2023-12-18 12:27:03.757 [main] Commons - Calling LounchBrowser Method To Loanching the Browser
+[INFO ] 2023-12-18 12:27:03.757 [main] Utils - Louching The Chrome Browser
+[INFO ] 2023-12-18 12:27:05.015 [main] Utils - User Given Wait StateMent 
+[INFO ] 2023-12-18 12:27:17.377 [main] Commons - Close The Browser 
+[INFO ] 2023-12-18 12:28:48.998 [main] Commons - Create An Object For Utility Class 
+[INFO ] 2023-12-18 12:28:49.004 [main] Commons - Call The Readproprties Method To Execusion
+[INFO ] 2023-12-18 12:28:49.004 [main] Utils - Read The Properties File 
+[INFO ] 2023-12-18 12:28:49.005 [main] Utils - Get The Data Form Properties File 
+[INFO ] 2023-12-18 12:28:49.005 [main] Commons - Calling LounchBrowser Method To Loanching the Browser
+[INFO ] 2023-12-18 12:28:49.005 [main] Utils - Louching The Chrome Browser
+[INFO ] 2023-12-18 12:28:50.551 [main] Utils - User Given Wait StateMent 
+[INFO ] 2023-12-18 12:28:55.059 [main] Commons - Close The Browser 
+[INFO ] 2023-12-18 12:28:55.414 [main] Commons - Create An Object For Utility Class 
+[INFO ] 2023-12-18 12:28:55.417 [main] Commons - Call The Readproprties Method To Execusion
+[INFO ] 2023-12-18 12:28:55.418 [main] Utils - Read The Properties File 
+[INFO ] 2023-12-18 12:28:55.419 [main] Utils - Get The Data Form Properties File 
+[INFO ] 2023-12-18 12:28:55.419 [main] Commons - Calling LounchBrowser Method To Loanching the Browser
+[INFO ] 2023-12-18 12:28:55.419 [main] Utils - Louching The Chrome Browser
+[INFO ] 2023-12-18 12:28:56.545 [main] Utils - User Given Wait StateMent 
+[INFO ] 2023-12-18 12:29:02.841 [main] Commons - Close The Browser 
+[INFO ] 2023-12-18 12:29:03.111 [main] Commons - Create An Object For Utility Class 
+[INFO ] 2023-12-18 12:29:03.113 [main] Commons - Call The Readproprties Method To Execusion
+[INFO ] 2023-12-18 12:29:03.113 [main] Utils - Read The Properties File 
+[INFO ] 2023-12-18 12:29:03.114 [main] Utils - Get The Data Form Properties File 
+[INFO ] 2023-12-18 12:29:03.114 [main] Commons - Calling LounchBrowser Method To Loanching the Browser
+[INFO ] 2023-12-18 12:29:03.114 [main] Utils - Louching The Chrome Browser
+[INFO ] 2023-12-18 12:29:04.408 [main] Utils - User Given Wait StateMent 
+[INFO ] 2023-12-18 12:29:15.770 [main] Commons - Close The Browser 
+[INFO ] 2023-12-18 12:32:49.649 [main] Commons - Create An Object For Utility Class 
+[INFO ] 2023-12-18 12:32:49.657 [main] Commons - Call The Readproprties Method To Execusion
+[INFO ] 2023-12-18 12:32:49.657 [main] Utils - Read The Properties File 
+[INFO ] 2023-12-18 12:32:49.657 [main] Utils - Get The Data Form Properties File 
+[INFO ] 2023-12-18 12:32:49.658 [main] Commons - Calling LounchBrowser Method To Loanching the Browser
+[INFO ] 2023-12-18 12:32:49.658 [main] Utils - Louching The Chrome Browser
+[INFO ] 2023-12-18 12:32:51.215 [main] Utils - User Given Wait StateMent 
+[INFO ] 2023-12-18 12:32:57.122 [main] Commons - Close The Browser 
+[INFO ] 2023-12-18 12:32:57.443 [main] Commons - Create An Object For Utility Class 
+[INFO ] 2023-12-18 12:32:57.444 [main] Commons - Call The Readproprties Method To Execusion
+[INFO ] 2023-12-18 12:32:57.445 [main] Utils - Read The Properties File 
+[INFO ] 2023-12-18 12:32:57.445 [main] Utils - Get The Data Form Properties File 
+[INFO ] 2023-12-18 12:32:57.446 [main] Commons - Calling LounchBrowser Method To Loanching the Browser
+[INFO ] 2023-12-18 12:32:57.446 [main] Utils - Louching The Chrome Browser
+[INFO ] 2023-12-18 12:32:58.330 [main] Utils - User Given Wait StateMent 
+[INFO ] 2023-12-18 12:33:08.127 [main] Commons - Close The Browser 
+[INFO ] 2023-12-18 12:33:08.366 [main] Commons - Create An Object For Utility Class 
+[INFO ] 2023-12-18 12:33:08.367 [main] Commons - Call The Readproprties Method To Execusion
+[INFO ] 2023-12-18 12:33:08.367 [main] Utils - Read The Properties File 
+[INFO ] 2023-12-18 12:33:08.368 [main] Utils - Get The Data Form Properties File 
+[INFO ] 2023-12-18 12:33:08.368 [main] Commons - Calling LounchBrowser Method To Loanching the Browser
+[INFO ] 2023-12-18 12:33:08.368 [main] Utils - Louching The Chrome Browser
+[INFO ] 2023-12-18 12:33:09.535 [main] Utils - User Given Wait StateMent 
+[INFO ] 2023-12-18 12:33:15.383 [main] Commons - In This Test Scenario As Ben FailedUser Able To Add Shop Product To The Cart Page
+[INFO ] 2023-12-18 12:33:15.420 [main] Commons - Close The Browser 
+[INFO ] 2023-12-18 12:34:11.293 [main] Commons - Create An Object For Utility Class 
+[INFO ] 2023-12-18 12:34:11.302 [main] Commons - Call The Readproprties Method To Execusion
+[INFO ] 2023-12-18 12:34:11.302 [main] Utils - Read The Properties File 
+[INFO ] 2023-12-18 12:34:11.303 [main] Utils - Get The Data Form Properties File 
+[INFO ] 2023-12-18 12:34:11.303 [main] Commons - Calling LounchBrowser Method To Loanching the Browser
+[INFO ] 2023-12-18 12:34:11.303 [main] Utils - Louching The Chrome Browser
+[INFO ] 2023-12-18 12:34:12.899 [main] Utils - User Given Wait StateMent 
+[INFO ] 2023-12-18 12:34:19.563 [main] Commons - Close The Browser 
+[INFO ] 2023-12-18 12:34:19.820 [main] Commons - Create An Object For Utility Class 
+[INFO ] 2023-12-18 12:34:19.821 [main] Commons - Call The Readproprties Method To Execusion
+[INFO ] 2023-12-18 12:34:19.821 [main] Utils - Read The Properties File 
+[INFO ] 2023-12-18 12:34:19.822 [main] Utils - Get The Data Form Properties File 
+[INFO ] 2023-12-18 12:34:19.822 [main] Commons - Calling LounchBrowser Method To Loanching the Browser
+[INFO ] 2023-12-18 12:34:19.822 [main] Utils - Louching The Chrome Browser
+[INFO ] 2023-12-18 12:34:20.841 [main] Utils - User Given Wait StateMent 
+[INFO ] 2023-12-18 12:34:37.235 [main] Commons - In This Test Scenario As Ben FailedUser Able To Add New Arraivels Product To The Shooping Bage
+[INFO ] 2023-12-18 12:34:37.559 [main] Commons - Close The Browser 
+[INFO ] 2023-12-18 12:34:37.860 [main] Commons - Create An Object For Utility Class 
+[INFO ] 2023-12-18 12:34:37.861 [main] Commons - Call The Readproprties Method To Execusion
+[INFO ] 2023-12-18 12:34:37.861 [main] Utils - Read The Properties File 
+[INFO ] 2023-12-18 12:34:37.863 [main] Utils - Get The Data Form Properties File 
+[INFO ] 2023-12-18 12:34:37.864 [main] Commons - Calling LounchBrowser Method To Loanching the Browser
+[INFO ] 2023-12-18 12:34:37.864 [main] Utils - Louching The Chrome Browser
+[INFO ] 2023-12-18 12:34:39.038 [main] Utils - User Given Wait StateMent 
+[INFO ] 2023-12-18 12:34:53.956 [main] Commons - Close The Browser 
+[INFO ] 2023-12-18 12:36:46.035 [main] Commons - Create An Object For Utility Class 
+[INFO ] 2023-12-18 12:36:46.043 [main] Commons - Call The Readproprties Method To Execusion
+[INFO ] 2023-12-18 12:36:46.044 [main] Utils - Read The Properties File 
+[INFO ] 2023-12-18 12:36:46.044 [main] Utils - Get The Data Form Properties File 
+[INFO ] 2023-12-18 12:36:46.045 [main] Commons - Calling LounchBrowser Method To Loanching the Browser
+[INFO ] 2023-12-18 12:36:46.045 [main] Utils - Louching The Chrome Browser
+[INFO ] 2023-12-18 12:36:47.709 [main] Utils - User Given Wait StateMent 
+[INFO ] 2023-12-18 12:36:53.603 [main] Commons - Close The Browser 
+[INFO ] 2023-12-18 12:36:53.972 [main] Commons - Create An Object For Utility Class 
+[INFO ] 2023-12-18 12:36:53.974 [main] Commons - Call The Readproprties Method To Execusion
+[INFO ] 2023-12-18 12:36:53.974 [main] Utils - Read The Properties File 
+[INFO ] 2023-12-18 12:36:53.974 [main] Utils - Get The Data Form Properties File 
+[INFO ] 2023-12-18 12:36:53.975 [main] Commons - Calling LounchBrowser Method To Loanching the Browser
+[INFO ] 2023-12-18 12:36:53.975 [main] Utils - Louching The Chrome Browser
+[INFO ] 2023-12-18 12:36:55.005 [main] Utils - User Given Wait StateMent 
+[INFO ] 2023-12-18 12:37:09.794 [main] Commons - Close The Browser 
+[INFO ] 2023-12-18 12:37:10.033 [main] Commons - Create An Object For Utility Class 
+[INFO ] 2023-12-18 12:37:10.034 [main] Commons - Call The Readproprties Method To Execusion
+[INFO ] 2023-12-18 12:37:10.034 [main] Utils - Read The Properties File 
+[INFO ] 2023-12-18 12:37:10.035 [main] Utils - Get The Data Form Properties File 
+[INFO ] 2023-12-18 12:37:10.035 [main] Commons - Calling LounchBrowser Method To Loanching the Browser
+[INFO ] 2023-12-18 12:37:10.035 [main] Utils - Louching The Chrome Browser
+[INFO ] 2023-12-18 12:37:11.048 [main] Utils - User Given Wait StateMent 
+[INFO ] 2023-12-18 12:37:22.488 [main] Commons - Close The Browser 
+[INFO ] 2023-12-18 15:06:20.816 [main] Commons - Create An Object For Utility Class 
+[INFO ] 2023-12-18 15:06:20.829 [main] Commons - Call The Readproprties Method To Execusion
+[INFO ] 2023-12-18 15:06:20.829 [main] Utils - Read The Properties File 
+[INFO ] 2023-12-18 15:06:20.830 [main] Utils - Get The Data Form Properties File 
+[INFO ] 2023-12-18 15:06:20.830 [main] Commons - Calling LounchBrowser Method To Loanching the Browser
+[INFO ] 2023-12-18 15:06:20.831 [main] Utils - Louching The Chrome Browser
+[INFO ] 2023-12-18 15:06:22.308 [main] Utils - User Given Wait StateMent 
+[INFO ] 2023-12-18 15:06:26.258 [main] Commons - Close The Browser 
+[INFO ] 2023-12-18 15:06:26.512 [main] Commons - Create An Object For Utility Class 
+[INFO ] 2023-12-18 15:06:26.512 [main] Commons - Call The Readproprties Method To Execusion
+[INFO ] 2023-12-18 15:06:26.512 [main] Utils - Read The Properties File 
+[INFO ] 2023-12-18 15:06:26.513 [main] Utils - Get The Data Form Properties File 
+[INFO ] 2023-12-18 15:06:26.514 [main] Commons - Calling LounchBrowser Method To Loanching the Browser
+[INFO ] 2023-12-18 15:06:26.514 [main] Utils - Louching The Chrome Browser
+[INFO ] 2023-12-18 15:06:27.608 [main] Utils - User Given Wait StateMent 
+[INFO ] 2023-12-18 15:06:41.767 [main] Commons - Close The Browser 
+[INFO ] 2023-12-18 15:06:42.011 [main] Commons - Create An Object For Utility Class 
+[INFO ] 2023-12-18 15:06:42.012 [main] Commons - Call The Readproprties Method To Execusion
+[INFO ] 2023-12-18 15:06:42.013 [main] Utils - Read The Properties File 
+[INFO ] 2023-12-18 15:06:42.014 [main] Utils - Get The Data Form Properties File 
+[INFO ] 2023-12-18 15:06:42.014 [main] Commons - Calling LounchBrowser Method To Loanching the Browser
+[INFO ] 2023-12-18 15:06:42.014 [main] Utils - Louching The Chrome Browser
+[INFO ] 2023-12-18 15:06:43.236 [main] Utils - User Given Wait StateMent 
+[INFO ] 2023-12-18 15:06:56.837 [main] Commons - Close The Browser 
