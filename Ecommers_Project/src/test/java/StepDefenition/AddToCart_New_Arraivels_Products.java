@@ -25,7 +25,7 @@ public class AddToCart_New_Arraivels_Products extends Constent {
 
 		dash.getNew_Arrivals().click();
      
-     Thread.sleep(2000);
+     
 		
 	}
 	
