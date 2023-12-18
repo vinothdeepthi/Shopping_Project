@@ -8,6 +8,7 @@ public class Clss {
 	public void ss() {
 		
 		System.out.println("zns");
+		System.out.println("ssj");
 	}
 
 }
